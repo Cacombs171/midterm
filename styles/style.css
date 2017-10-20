@@ -46,7 +46,7 @@ table {
   border-spacing: 0; }
 
 header {
-  background-color: darkorange;
+  background-color: orange;
   font-size: 30px;
   text-align: center; }
 
@@ -62,55 +62,6 @@ header {
   text-align: left;
   color: white;
   padding-top: 180px;
-  padding-left: 27px;
-  padding-right: 49px;
   font-size: 50px; }
-
-article {
-  background-color: orange;
-  padding-top: 55px;
-  padding-left: 27px;
-  padding-right: 33px;
-  text-align: left; }
-
-.bold {
-  font-size: 18px;
-  padding-top: 30px; }
-
-.regular {
-  font-size: 15px;
-  padding-top: 30px; }
-
-div {
-  text-align: left;
-  padding-left: 55px;
-  padding-right: 38px;
-  padding-bottom: 69px; }
-
-h2 {
-  color: #eb503c;
-  font-size: 16px; }
-
-h3 {
-  color: #4c1a14;
-  font-size: 21px; }
-
-.date {
-  font-size: 18px;
-  color: #021d2c; }
-
-.location {
-  font-size: 16px;
-  color: #021d2c; }
-
-a {
-  font-size: 16px;
-  color: #4e1c07; }
-
-footer {
-  padding-top: 50px;
-  padding-bottom: 50px;
-  padding-right: 39px;
-  text-align: center; }
 
 /*# sourceMappingURL=style.css.map */
