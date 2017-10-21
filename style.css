@@ -164,4 +164,17 @@ footer {
   padding-top: 30px;
   padding-bottom: 30px; }
 
+.space {
+  padding-top: 30px; }
+
+.involved {
+  background-color: #eb503c;
+  padding-top: 30px;
+  color: #efe9d8; }
+
+.start {
+  background-color: #a13729;
+  padding-top: 30px;
+  color: #efe9d8; }
+
 /*# sourceMappingURL=style.css.map */
