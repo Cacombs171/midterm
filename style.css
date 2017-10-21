@@ -46,7 +46,7 @@ table {
   border-spacing: 0; }
 
 header {
-  background-color: darkorange;
+  background-color: #ffab00;
   font-size: 30px;
   text-align: center; }
 
@@ -67,7 +67,7 @@ header {
   font-size: 50px; }
 
 article {
-  background-color: orange;
+  background-color: #ffc400;
   padding-top: 55px;
   padding-left: 27px;
   padding-right: 33px;
@@ -112,5 +112,56 @@ footer {
   padding-bottom: 50px;
   padding-right: 39px;
   text-align: center; }
+
+.body {
+  background-color: #ffc400; }
+
+.meetup {
+  background-color: #ffc400;
+  text-align: left;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 21px;
+  letter-spacing: 1px;
+  color: #4c1a14;
+  line-height: 24px; }
+
+.core {
+  padding-left: 50px;
+  padding-top: 50px; }
+
+.title {
+  font-size: 18px;
+  padding-top: 25px; }
+
+.text {
+  font-size: 16px; }
+
+.purpose {
+  background-color: #EFE9D9;
+  height: 150px;
+  padding-left: 50px;
+  padding-top: 100px; }
+
+.gap {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px; }
+
+.number {
+  letter-spacing: 0.8px; }
+
+.principles {
+  background-color: #EFE9D9;
+  padding-bottom: 50px; }
+
+.indent {
+  padding-top: 20px; }
+
+.alone {
+  text-align: left;
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px; }
 
 /*# sourceMappingURL=style.css.map */
